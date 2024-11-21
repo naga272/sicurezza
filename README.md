@@ -1,23 +1,7 @@
-CO’E’ LA SICUREZZA INFORMATICA:
-descrizione base
-perché è importante
+# Sicurezza Informatica
 
-
-
-PROBLEMI DELLA SICUREZZA:
-attacchi (motivazioni di essi)
-esempi di questi
-come risolverli - limitarli
-
-ASPETTI LEGALI:
-GDPR
-
-
-
-/*
-Definizione personale semplificata:
+## COSE’ LA SICUREZZA INFORMATICA:
 La sicurezza informatica (cybersecurity) è l’insieme di tecnologie, pratiche… mirate a difendere dispositivi,  dati e informazioni digitali.
-*/
 
 
 /*
