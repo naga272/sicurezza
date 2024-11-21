@@ -3,34 +3,21 @@
 ## COSE’ LA SICUREZZA INFORMATICA:
 La sicurezza informatica (cybersecurity) è l’insieme di tecnologie, pratiche… mirate a difendere dispositivi,  dati e informazioni digitali.
 
-
-/*
-PROBLEMI DELLA SICUREZZA
-
-Attacchi:
+Esempi di Attacchi:
 fork bomb
 bruteforce
-desktop error
+os error
 DDoS
-DoS
 SQL Injection
 Javascript injection
 
-Esempi:
-ci pensa Fede (farà una repo su github)
-
 Come risolverli:
-alcuni sono impossibili da risolvere una volta presi
-antivirus
-non prendere programmi da siti non affidabili
-
-*/
+- alcuni sono impossibili da risolvere una volta presi
+- antivirus
+- non prendere programmi da siti non affidabili
 
 
-
-
-/*
-ARGOMENTI GDPR:
+### GDPR:
 https://www.confcommercio.siena.it/wp-content/uploads/2018/03/GDPR-Seminario-Privacy-Slides.pdf
 
 OBIETTIVI:
@@ -52,28 +39,28 @@ APPLICAZIONE DEL REGOLAMENTO:
 
 TRATTAMENTO DEI DATI:
 Qualsiasi attività di gestione del dato come: 
-trattamento del dato la raccolta
-la conservazione
-la modifica
-la consultazione
-la comunicazione
-la cancellazione su qualsiasi supporto informatico, cartaceo o analogico
+- trattamento del dato la raccolta
+- la conservazione
+- la modifica
+- la consultazione
+- la comunicazione
+- la cancellazione su qualsiasi supporto informatico, cartaceo o analogico
 sia attraverso operatori sia con processi automatizzati
 
 COSA SI INTENDE PER TRATTAMENTO
 qualsiasi operazione o insieme di operazioni, compiute con o senza l'ausilio di processi automatizzati e applicate a dati personali o insiemi di dati personali, come:
-la raccolta
-la registrazione
-l'organizzazione
-la strutturazione
-la conservazione
-l'adattamento o la modifica 
-l'estrazione
-la consultazione
-l'uso
-la comunicazione mediante trasmissione
-diffusione o qualsiasi altra forma di messa a disposizione
-il raffronto o l'interconnessione
-la limitazione
-la cancellazione o la distruzione
-*/
+- la raccolta
+- la registrazione
+- l'organizzazione
+- la strutturazione
+- la conservazione
+- l'adattamento o la modifica 
+- l'estrazione
+- la consultazione
+- l'uso
+- la comunicazione mediante trasmissione
+- diffusione o qualsiasi altra forma di messa a disposizione
+- il raffronto o l'interconnessione
+- la limitazione
+- la cancellazione o la distruzione
+
