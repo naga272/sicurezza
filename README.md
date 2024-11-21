@@ -4,12 +4,12 @@
 La sicurezza informatica (cybersecurity) è l’insieme di tecnologie, pratiche… mirate a difendere dispositivi,  dati e informazioni digitali.
 
 Esempi di Attacchi:
-fork bomb
-bruteforce
-os error
-DDoS
-SQL Injection
-Javascript injection
+- fork bomb
+- bruteforce
+- os error
+- DDoS
+- SQL Injection
+- Javascript injection
 
 Come risolverli:
 - alcuni sono impossibili da risolvere una volta presi
