@@ -1,8 +1,13 @@
 # Sicurezza Informatica
 
 ## COSE’ LA SICUREZZA INFORMATICA:
-La sicurezza informatica (o cybersecurity) è un aspetto fondamentale nel mondo digitale, essa è l’insieme di tecnologie e pratiche mirate a proteggere i sistemi informatici e le informazioni da attacchi esterni. In passato, questa si concentrava principalmente sulla protezione dei dati fisici, ma oggi si estende alla difesa dalle minacce virtuali che possono compromettere la privacy e l'integrità dei dati.
-Per difendersi da queste minacce, è fondamentale adottare diverse misure di sicurezza. Alcuni attacchi sono quasi impossibili da risolvere una volta entrati nel sistema, ma è sempre possibile ridurre il rischio prevenendo gli accessi non autorizzati. Alcune cosiddette “Best Practices” sono: l'uso di un antivirus aggiornato, la protezione delle password e l'adozione di sistemi di autenticazione. E’ inoltre cruciale evitare di scaricare programmi da siti non affidabili, in quanto questi possono contenere malware o altre minacce.
+La sicurezza informatica (o cybersecurity) è un aspetto fondamentale nel mondo digitale, essa è l’insieme di tecnologie e pratiche mirate a proteggere i sistemi informatici e le informazioni da attacchi esterni. 
+In passato, questa si concentrava principalmente sulla protezione dei dati fisici, ma oggi si estende alla difesa dalle minacce virtuali che possono compromettere la privacy e l'integrità dei dati.
+Per difendersi da queste minacce, è fondamentale adottare diverse misure di sicurezza. 
+Alcuni attacchi sono quasi impossibili da risolvere una volta entrati nel sistema, ma è sempre possibile ridurre il rischio prevenendo gli accessi non autorizzati. 
+Alcune cosiddette “Best Practices” sono: l'uso di un antivirus aggiornato, la protezione delle password e l'adozione di sistemi di autenticazione. 
+E’ inoltre cruciale evitare di scaricare programmi da siti non affidabili, in quanto questi possono contenere malware o altre minacce.
+
 Alcuni esempi di attacchi informatici sono: 
 - la fork bomb, un attacco che sfrutta la creazione infinita di processi, esaurendo così le risorse del sistema;
 - il bruteforce è un attacco che tenta di indovinare le credenziali d'accesso attraverso tentativi ripetuti;
