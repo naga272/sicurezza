@@ -1,20 +1,16 @@
 # Sicurezza Informatica
 
 ## COSE’ LA SICUREZZA INFORMATICA:
-La sicurezza informatica (cybersecurity) è l’insieme di tecnologie, pratiche… mirate a difendere dispositivi,  dati e informazioni digitali.
+La sicurezza informatica (o cybersecurity) è un aspetto fondamentale nel mondo digitale, essa è l’insieme di tecnologie e pratiche mirate a proteggere i sistemi informatici e le informazioni da attacchi esterni. In passato, questa si concentrava principalmente sulla protezione dei dati fisici, ma oggi si estende alla difesa dalle minacce virtuali che possono compromettere la privacy e l'integrità dei dati.
+Per difendersi da queste minacce, è fondamentale adottare diverse misure di sicurezza. Alcuni attacchi sono quasi impossibili da risolvere una volta entrati nel sistema, ma è sempre possibile ridurre il rischio prevenendo gli accessi non autorizzati. Alcune cosiddette “Best Practices” sono: l'uso di un antivirus aggiornato, la protezione delle password e l'adozione di sistemi di autenticazione. E’ inoltre cruciale evitare di scaricare programmi da siti non affidabili, in quanto questi possono contenere malware o altre minacce.
+Alcuni esempi di attacchi informatici sono: 
+- la fork bomb, un attacco che sfrutta la creazione infinita di processi, esaurendo così le risorse del sistema;
+- il bruteforce è un attacco che tenta di indovinare le credenziali d'accesso attraverso tentativi ripetuti;
+- gli errori nei sistemi operativi (OS error) possono essere sfruttati per ottenere accesso non autorizzato;
+- mentre gli attacchi DDoS (Distributed Denial of Service) mirano a rendere un servizio online irraggiungibile riempiendo di richieste la rete;
+- la SQL injection e la Javascript injection sono tecniche che sfruttano le vulnerabilità nei siti web per inserire codice dannoso e compromettere così la sicurezza.
+In sintesi, la cybersecurity è un settore in continua evoluzione, che richiede attenzione costante e un comportamento responsabile per difendersi dalle minacce informatiche e garantire la sicurezza dei nostri dati e dispositivi.
 
-Esempi di Attacchi:
-- fork bomb
-- bruteforce
-- OS error
-- DDoS
-- SQL Injection
-- Javascript injection
-
-Come risolverli:
-- alcuni sono impossibili da risolvere una volta presi
-- antivirus
-- non prendere programmi da siti non affidabili
 
 
 ### GDPR:
