@@ -12,7 +12,7 @@ Alcuni esempi di attacchi informatici sono:
 - la fork bomb, un attacco che sfrutta la creazione infinita di processi, esaurendo così le risorse del sistema;
 - il bruteforce è un attacco che tenta di indovinare le credenziali d'accesso attraverso tentativi ripetuti;
 - gli errori nei sistemi operativi (OS error) possono essere sfruttati per ottenere accesso non autorizzato;
-- mentre gli attacchi DDoS (Distributed Denial of Service) mirano a rendere un servizio online irraggiungibile riempiendo di richieste la rete;
+- mentre gli attacchi DDoS (Distributed Denial of Service) mirano a rendere un servizio online irraggiungibile riempiendo di richieste scadute la rete;
 - la SQL injection e la Javascript injection sono tecniche che sfruttano le vulnerabilità nei siti web per inserire codice dannoso e compromettere così la sicurezza.
 In sintesi, la cybersecurity è un settore in continua evoluzione, che richiede attenzione costante e un comportamento responsabile per difendersi dalle minacce informatiche e garantire la sicurezza dei nostri dati e dispositivi.
 
